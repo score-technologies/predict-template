@@ -1,0 +1,70 @@
+[
+  {
+    "challengeId": "cbce8fa7-9566-44a3-b6b0-490f0db79120",
+    "prediction": { "1X2": { "home": 0.2, "draw": 0.14, "away": 0.66 } }
+  },
+  {
+    "challengeId": "1f2e3fd3-7c67-41c0-8510-09adbacd53be",
+    "prediction": { "1X2": { "home": 0.84, "draw": 0.15, "away": 0.01 } }
+  },
+  {
+    "challengeId": "0ee6411b-cb2e-49b2-bc74-05308329f119",
+    "prediction": { "1X2": { "home": 0.65, "draw": 0.18, "away": 0.17 } }
+  },
+  {
+    "challengeId": "17550546-4879-4dff-98bd-a4d281cab898",
+    "prediction": { "1X2": { "home": 0.96, "draw": 0.02, "away": 0.02 } }
+  },
+  {
+    "challengeId": "c5016b63-b7ee-40d2-a77e-897c33a399f5",
+    "prediction": { "1X2": { "home": 0.17, "draw": 0.57, "away": 0.26 } }
+  },
+  {
+    "challengeId": "1d0bc980-07a4-468d-bc1b-052d93ce4616",
+    "prediction": { "1X2": { "home": 0.13, "draw": 0.51, "away": 0.36 } }
+  },
+  {
+    "challengeId": "a430573a-fb51-4314-bb9d-99f7334d241e",
+    "prediction": { "1X2": { "home": 0.14, "draw": 0.1, "away": 0.77 } }
+  },
+  {
+    "challengeId": "20f33ff0-ce0b-4bfb-a74d-469987b88be7",
+    "prediction": { "1X2": { "home": 0.95, "draw": 0.02, "away": 0.03 } }
+  },
+  {
+    "challengeId": "3843baf4-601d-4856-a1af-3f5e364426b6",
+    "prediction": { "1X2": { "home": 0.08, "draw": 0.35, "away": 0.58 } }
+  },
+  {
+    "challengeId": "8113dbe5-7aac-45b8-925f-9171785d31f0",
+    "prediction": { "1X2": { "home": 0.72, "draw": 0.09, "away": 0.19 } }
+  },
+  {
+    "challengeId": "e9da7d1a-bef7-4fc4-b89b-89f025e9655f",
+    "prediction": { "1X2": { "home": 0.19, "draw": 0.55, "away": 0.26 } }
+  },
+  {
+    "challengeId": "236a1f33-1ba2-4b8e-8fc2-7111a75dea54",
+    "prediction": { "1X2": { "home": 0.19, "draw": 0.56, "away": 0.25 } }
+  },
+  {
+    "challengeId": "4bca8eca-ceee-4bf2-bec6-3a95477d8d49",
+    "prediction": { "1X2": { "home": 0.07, "draw": 0.02, "away": 0.91 } }
+  },
+  {
+    "challengeId": "836b0b14-176d-444b-b521-cdf4b5ebde21",
+    "prediction": { "1X2": { "home": 0.68, "draw": 0.04, "away": 0.28 } }
+  },
+  {
+    "challengeId": "e0b220f1-51b0-419c-993a-c728052a35f4",
+    "prediction": { "1X2": { "home": 0.27, "draw": 0.7, "away": 0.02 } }
+  },
+  {
+    "challengeId": "9bfc6a24-06ef-4f07-bf78-663a3c63b322",
+    "prediction": { "1X2": { "home": 0.03, "draw": 0.96, "away": 0.01 } }
+  },
+  {
+    "challengeId": "344ca9d3-2647-4c52-be9e-6f16b425fa5b",
+    "prediction": { "1X2": { "home": 0.13, "draw": 0.11, "away": 0.76 } }
+  }
+]

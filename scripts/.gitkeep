@@ -1,0 +1,2 @@
+# This file ensures the scripts directory is tracked by git
+# Training scripts, data processing scripts, and utilities should be stored here 
